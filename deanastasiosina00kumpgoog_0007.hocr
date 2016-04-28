@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deanastasiosina00kumpgoog_0007.png"; bbox 0 0 3225 5217; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 522 2208 988 2321">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 522 2208 988 2321">
+     <span class='ocr_line' id='line_1_1' title="bbox 522 2208 988 2321; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 522 2208 988 2321; x_wconf 79' lang='lat' dir='ltr'><strong>DISSERTATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 633 2609 869 2659">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 633 2609 869 2659">
+     <span class='ocr_line' id='line_1_2' title="bbox 633 2609 869 2659; baseline -0.004 -7"><span class='ocrx_word' id='word_1_2' title='bbox 633 2610 717 2659; x_wconf 78' lang='lat' dir='ltr'><strong>QUAM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 731 2609 869 2651; x_wconf 72' lang='lat' dir='ltr'>sempsl&#39;r</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 299 2922 1215 3091">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 299 2922 1215 3091">
+     <span class='ocr_line' id='line_1_3' title="bbox 299 2922 1215 3091; baseline 0.015 -58"><span class='ocrx_word' id='word_1_4' title='bbox 299 2946 522 3034; x_wconf 72' lang='lat' dir='ltr'><strong>JOANNES</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 551 2946 799 3035; x_wconf 71' lang='grc' dir='ltr'><strong>ΒΑΡἮεΤΑ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 826 2922 1215 3091; x_wconf 51' lang='lat' dir='ltr'>{mmm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 449 3127 1058 3171">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 449 3127 1058 3171">
+     <span class='ocr_line' id='line_1_4' title="bbox 449 3127 1058 3171; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 449 3128 608 3171; x_wconf 65' lang='lat' dir='ltr'>nlossonsls</span> <span class='ocrx_word' id='word_1_8' title='bbox 622 3127 858 3170; x_wconf 76' lang='lat' dir='ltr'>RATISBONENSIS</span> <span class='ocrx_word' id='word_1_9' title='bbox 872 3127 1058 3169; x_wconf 77' lang='lat' dir='ltr'>PRESBYTER.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1618 5217">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1618 5217">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1618 5217; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1618 5217; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

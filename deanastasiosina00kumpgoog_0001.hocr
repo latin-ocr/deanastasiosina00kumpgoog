@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deanastasiosina00kumpgoog_0001.png"; bbox 0 0 3225 5217; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 244 793 1708 1085">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 244 793 1708 1085">
+     <span class='ocr_line' id='line_1_1' title="bbox 244 793 1708 913; baseline 0.015 -21"><span class='ocrx_word' id='word_1_1' title='bbox 244 793 756 893; x_wconf 65' lang='lat' dir='ltr'>Har-vanc!</span> <span class='ocrx_word' id='word_1_2' title='bbox 836 793 1564 913; x_wconf 50' lang='lat' dir='ltr'>Deposito&amp;</span> <span class='ocrx_word' id='word_1_3' title='bbox 1705 846 1708 853; x_wconf 41' lang='lat'>‘¹</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 492 953 1618 1085; baseline 0.028 -33"><span class='ocrx_word' id='word_1_4' title='bbox 492 955 896 1053; x_wconf 68' lang='lat' dir='ltr'>Brittle</span> <span class='ocrx_word' id='word_1_5' title='bbox 972 953 1276 1049; x_wconf 74' lang='lat' dir='ltr'>Book</span> <span class='ocrx_word' id='word_1_6' title='bbox 1542 1082 1618 1085; x_wconf 16' lang='lat' dir='ltr'>f„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 96 0 1714 1090">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 96 0 1714 1090">
+     <span class='ocr_line' id='line_1_3' title="bbox 96 0 1714 1090; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 96 0 1714 1090; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
